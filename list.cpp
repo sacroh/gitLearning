@@ -15,6 +15,7 @@ void dummyfunc() {
     cout << "from dummy func" << endl;
 }
 int main() {
+    
     list<int> lt;
     lt.push_back(10);
 
